@@ -2,7 +2,6 @@ const information = {
   name: ['PC', 'SRK', 'SSR', 'KKR'],
   verb: ['don\'t you sleep?', 'still not in bed?', 'drinking water?', 'facebooking?', 'meditating?'],
   adjective: ['pretty', 'perfect', 'horrible', 'fabulous']
-
 }
 const message_gen = obj => {
   let message = []
